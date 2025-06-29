@@ -1,4 +1,4 @@
-# Headphones Landing Page
+# 🎧 Headphones Landing Page
 
 This project is a **responsive landing page** built from scratch using only **HTML and CSS**, as part of the ALX Front-End curriculum.
 
@@ -32,10 +32,10 @@ All styles, layout spacing, and fonts follow the official Figma design file. You
 
 ---
 
-## Constraints
+## 🚫 Constraints
 
-- No external CSS frameworks (e.g. Bootstrap)
-- No JavaScript
+- ❌ No external CSS frameworks (e.g. Bootstrap)
+- ❌ No JavaScript
 
 ---
 
@@ -47,7 +47,7 @@ All styles, layout spacing, and fonts follow the official Figma design file. You
 
 ---
 
-## How to Run
+## 🚀 How to Run
 
 1. Clone the repo
 2. Open `index.html` in any browser
